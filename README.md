@@ -14,7 +14,7 @@
     <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=C%2B%2B&labelColor=000000&color=FF9A00">
     <img alt="C#" src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=C&labelColor=000000&color=E9A319">
     <img alt="Blueprints & Visual scripting" src="https://img.shields.io/badge/Blueprints_%26_Visual_Scripting-111111?style=for-the-badge&logo=UnrealEngine&labelColor=000000&color=FAD691">
-    <img alt="XML" src="https://img.shields.io/badge/XML-111111?style=for-the-badge&logo=XML&labelColor=000000&color=FAD59A">
+    <img alt="Lua" src="https://img.shields.io/badge/Lua-111111?style=for-the-badge&logo=Lua&labelColor=000000&color=FAD59A">
   </p>
   <p align="center">
     <img alt="Blender" src="https://img.shields.io/badge/Blender-111111?style=for-the-badge&logo=Blender&logoColor=ffffff&labelColor=000000&color=FF8383">
@@ -22,4 +22,25 @@
     <img alt="Notion" src="https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=Notion&logoColor=ffffff&labelColor=000000&color=FFB4B4">
     <img alt="Microsoft Suite" src="https://img.shields.io/badge/Microsoft_Suite-111111?style=for-the-badge&logo=GoogleDocs&logoColor=ffffff&labelColor=000000&color=E5BEB5">
   </p>
+</div>
+
+## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWlnOTMwdmg2ODJvcTR2YnZ3NHF5Z3NqbzZvZGZkZ2wwZDVpM2g0biZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6n6N2o22gKVeDQDGy8/giphy.gif" width="40"> About Me
+I am Pablo, a 💻 Technical Designer from Spain with 6 years of demonstrable experience developing games in Unreal Engine, Unity, and my own Engines. I have also worked as a 🎮 Gameplay Programmer, a 📝 UX Designer, and a 🛠️ Tools developer.
+
+Initially, I focused my education on the design part of game development. However, I always worked towards developing my technical skills in parallel. While I prototyped mechanics, I learned C#. And while I researched UX and Game Feel, I created Custom Unity Tools to test my findings. By the time I realized it, I was performing the role of a Technical Designer. So, I did what any normal person would do. I started a Master's Program in Game Programming to complete the missing half of my education and learn C++. And I also work as a Program Facilitator for Educational Courses, in case I ever run out of disciplines.
+
+I'm looking for Technical Designer roles as well as Game Programmer and Designer positions. I'm open to positions within Spain and the UK and will consider remote work opportunities.
+
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmd4ZWUxOGJqb3B2ZXprNHJlcnVyb3I2NjF0Njh0dnR4bm1mY2JnbyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/KatbDTzjifxxAAhM8T/giphy.gif" width="40"> Soft Skills
+• Group management and conflict resolution from my Facilitation experience.
+• Adaptability and resilience.
+• Proactivity to identify and solve problems.
+
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazAzcWhtdjF5bmZoOWxxMGNvMzQ4Y24ydDNwNmN3YTBvejFleWxhayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/l0HlPruAeiEvswow0/giphy.gif" width="40"> Demo Reel
+
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlxcnZ6dGpqMjdxbG1sOTFwajJ3a3oybHZxdG9pODh5YzF0bzBpNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NS0bXSSo8nIFbDDSb5/giphy.gif" width="40"> Projects
+
+## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZWRocnJtYWF2bnUzdWtsZ3dmeHlmZzJudzBtc3o0c2QwMWY1enUxaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/iPRtIf0OlGlSnNfV7W/giphy.gif" width="40"> Contact
+<div align="center">
+  
 </div>

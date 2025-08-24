@@ -5,6 +5,6 @@
     <img width="1584" height="495" alt="PortfolioThumbnail_3" src="https://github.com/user-attachments/assets/0f614055-c816-4f76-adf2-9735afd525a7" />
   </a>
   <p align="center">
-    <img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal_Engine-+5-0066A1?style=flate&labelColor=1f1f1f&color=9c8033&logo=UnrealEngine">
+    <img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal_Engine&logo=UnrealEngine">
   </p>
 </div>

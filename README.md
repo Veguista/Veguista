@@ -24,7 +24,7 @@
   </p>
 </div>
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDA0OHFnbnljZXZqYzRvMXVycXc0aW04bTMyNTVlNDhrZmNsNGZqciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YdHNbMCAt9VnA1u3YX/giphy.gif" width="32"> About Me
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlxcnZ6dGpqMjdxbG1sOTFwajJ3a3oybHZxdG9pODh5YzF0bzBpNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NS0bXSSo8nIFbDDSb5/giphy.gif" width="32"> About Me
 I am Pablo, a 💻 Technical Designer from Spain with 6 years of demonstrable experience developing games in Unreal Engine, Unity, and my own Engines. I have also worked as a 🎮 Gameplay Programmer, a 📝 UX Designer, and a 🛠️ Tools developer.
 
 Initially, I focused my education on the design part of game development. However, I always worked towards developing my technical skills in parallel. While I prototyped mechanics, I learned C#. And while I researched UX and Game Feel, I created Custom Unity Tools to test my findings. By the time I realized it, I was performing the role of a Technical Designer. So, I did what any normal person would do. I started a Master's Program in Game Programming to complete the missing half of my education and learn C++. And I also work as a Program Facilitator for Educational Courses, in case I ever run out of disciplines.
@@ -38,9 +38,9 @@ I'm looking for Technical Designer roles as well as Game Programmer and Designer
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazAzcWhtdjF5bmZoOWxxMGNvMzQ4Y24ydDNwNmN3YTBvejFleWxhayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/l0HlPruAeiEvswow0/giphy.gif" width="35"> Demo Reel
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlxcnZ6dGpqMjdxbG1sOTFwajJ3a3oybHZxdG9pODh5YzF0bzBpNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NS0bXSSo8nIFbDDSb5/giphy.gif" width="33"> Projects
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZ2ZnVuczd4bHBma2Z2cGh2a3pjcjgyczF2am43ZmY4MndkOXJpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1KpkdbH8aEkXow8eV/giphy.gif" width="33"> Projects
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZWRocnJtYWF2bnUzdWtsZ3dmeHlmZzJudzBtc3o0c2QwMWY1enUxaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/iPRtIf0OlGlSnNfV7W/giphy.gif" width="30"> Contact
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2d4NTZqNXp2Z3FiMDVnNml1cWtmOGNuOHJwOGpheDNmaXBuaWRneSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/33kbgk3Ir9CQ2jv88C/giphy.gif" width="35"> Contact
 <div align="center">
   
 </div>

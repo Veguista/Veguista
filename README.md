@@ -5,7 +5,7 @@
     <img width="1584" height="495" alt="PortfolioThumbnail_3" src="https://github.com/user-attachments/assets/0f614055-c816-4f76-adf2-9735afd525a7" />
   </a>
   <p align="center">
-    <img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal_Engine-000000?style=flat&logo=UnrealEngine">
-    <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=plastic&logo=Unity">
+    <img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal_Engine-111111?style=plastic&logo=UnrealEngine">
+    <img alt="Unity" src="https://img.shields.io/badge/Unity-111111?style=plastic&logo=Unity">
   </p>
 </div>

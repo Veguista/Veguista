@@ -11,15 +11,15 @@
     <img alt="Custom Engines" src="https://img.shields.io/badge/Custom_Engines-111111?style=for-the-badge&logo=C%2B%2B&labelColor=000000&color=DCD6F7">
   </p>
   <p align="center">
-    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=C%2B%2B&labelColor=000000&color=854836">
-    <img alt="C#" src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=C&labelColor=000000&color=A86523">
-    <img alt="Blueprints & Visual scripting" src="https://img.shields.io/badge/Blueprints_%26_Visual_Scripting-111111?style=for-the-badge&logo=UnrealEngine&labelColor=000000&color=FFB22C">
-    <img alt="XML" src="https://img.shields.io/badge/XML-111111?style=for-the-badge&logo=XML&labelColor=000000&color=EFDCAB">
+    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=C%2B%2B&labelColor=000000&color=A86523">
+    <img alt="C#" src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=C&labelColor=000000&color=E9A319">
+    <img alt="Blueprints & Visual scripting" src="https://img.shields.io/badge/Blueprints_%26_Visual_Scripting-111111?style=for-the-badge&logo=UnrealEngine&labelColor=000000&color=FAD691">
+    <img alt="XML" src="https://img.shields.io/badge/XML-111111?style=for-the-badge&logo=XML&labelColor=000000&color=FAD59A">
   </p>
   <p align="center">
-    <img alt="Blender" src="https://img.shields.io/badge/Blender-111111?style=for-the-badge&logo=Blender&logoColor=ffffff&labelColor=000000&color=FF9292">
-    <img alt="Version Control" src="https://img.shields.io/badge/Version_Control-111111?style=for-the-badge&logo=Git&logoColor=ffffff&labelColor=000000&color=FFB4B4">
-    <img alt="Notion" src="https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=Notion&logoColor=ffffff&labelColor=000000&color=FFDCDC">
-    <img alt="Microsoft Suite" src="https://img.shields.io/badge/Microsoft_Suite-111111?style=for-the-badge&logo=GoogleDocs&logoColor=ffffff&labelColor=000000&color=FFE8E8">
+    <img alt="Blender" src="https://img.shields.io/badge/Blender-111111?style=for-the-badge&logo=Blender&logoColor=ffffff&labelColor=000000&color=FF8383">
+    <img alt="Version Control" src="https://img.shields.io/badge/Version_Control-111111?style=for-the-badge&logo=Git&logoColor=ffffff&labelColor=000000&color=FF9292">
+    <img alt="Notion" src="https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=Notion&logoColor=ffffff&labelColor=000000&color=FFB4B4">
+    <img alt="Microsoft Suite" src="https://img.shields.io/badge/Microsoft_Suite-111111?style=for-the-badge&logo=GoogleDocs&logoColor=ffffff&labelColor=000000&color=FFDCDC">
   </p>
 </div>

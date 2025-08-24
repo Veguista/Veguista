@@ -20,6 +20,6 @@
     <img alt="Blender" src="https://img.shields.io/badge/Blender-111111?style=for-the-badge&logo=Blender&logoColor=ffffff&labelColor=000000&color=FF8383">
     <img alt="Version Control" src="https://img.shields.io/badge/Version_Control-111111?style=for-the-badge&logo=Git&logoColor=ffffff&labelColor=000000&color=FF9292">
     <img alt="Notion" src="https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=Notion&logoColor=ffffff&labelColor=000000&color=FFB4B4">
-    <img alt="Microsoft Suite" src="https://img.shields.io/badge/Microsoft_Suite-111111?style=for-the-badge&logo=GoogleDocs&logoColor=ffffff&labelColor=000000&color=FFDCDC">
+    <img alt="Microsoft Suite" src="https://img.shields.io/badge/Microsoft_Suite-111111?style=for-the-badge&logo=GoogleDocs&logoColor=ffffff&labelColor=000000&color=E5BEB5">
   </p>
 </div>

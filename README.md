@@ -38,9 +38,9 @@ I'm looking for Technical Designer roles as well as Game Programmer and Designer
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazAzcWhtdjF5bmZoOWxxMGNvMzQ4Y24ydDNwNmN3YTBvejFleWxhayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/l0HlPruAeiEvswow0/giphy.gif" width="35"> Demo Reel
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZ2ZnVuczd4bHBma2Z2cGh2a3pjcjgyczF2am43ZmY4MndkOXJpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1KpkdbH8aEkXow8eV/giphy.gif" width="33"> Projects
+## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YmhvdHhsdmszZGIwcTdhaGIwZTVhamk3cWV6eGtyaTMyYnF5ZDh0bCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/vtHAUZXA5TJ5YPrERy/giphy.gif" width="33"> Projects
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2d4NTZqNXp2Z3FiMDVnNml1cWtmOGNuOHJwOGpheDNmaXBuaWRneSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/33kbgk3Ir9CQ2jv88C/giphy.gif" width="35"> Contact
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzk3aG02b2NzNHZseWp5dTEwMjBocXp4bWVrOTJzd3NpMWlmbnBncyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/k3BaWknGtoURRum0hJ/giphy.gif" width="35"> Contact
 <div align="center">
   
 </div>

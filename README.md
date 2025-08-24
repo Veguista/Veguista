@@ -24,14 +24,14 @@
   </p>
 </div>
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDA0OHFnbnljZXZqYzRvMXVycXc0aW04bTMyNTVlNDhrZmNsNGZqciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YdHNbMCAt9VnA1u3YX/giphy.gif" width="40"> About Me
+## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDA0OHFnbnljZXZqYzRvMXVycXc0aW04bTMyNTVlNDhrZmNsNGZqciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YdHNbMCAt9VnA1u3YX/giphy.gif" width="35"> About Me
 I am Pablo, a 💻 Technical Designer from Spain with 6 years of demonstrable experience developing games in Unreal Engine, Unity, and my own Engines. I have also worked as a 🎮 Gameplay Programmer, a 📝 UX Designer, and a 🛠️ Tools developer.
 
 Initially, I focused my education on the design part of game development. However, I always worked towards developing my technical skills in parallel. While I prototyped mechanics, I learned C#. And while I researched UX and Game Feel, I created Custom Unity Tools to test my findings. By the time I realized it, I was performing the role of a Technical Designer. So, I did what any normal person would do. I started a Master's Program in Game Programming to complete the missing half of my education and learn C++. And I also work as a Program Facilitator for Educational Courses, in case I ever run out of disciplines.
 
 I'm looking for Technical Designer roles as well as Game Programmer and Designer positions. I'm open to positions within Spain and the UK and will consider remote work opportunities.
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dno0Y2IwM3ZhMmlzaGczMWNnaHVvMTUxMnU5dDRhOGRhbWRtZXozdCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/dNMGZVSfkSFn7NDC3F/giphy.gif" width="35"> Soft Skills
+## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dno0Y2IwM3ZhMmlzaGczMWNnaHVvMTUxMnU5dDRhOGRhbWRtZXozdCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/dNMGZVSfkSFn7NDC3F/giphy.gif" width="30"> Soft Skills
 - Group management and conflict resolution from my Facilitation experience.
 - Adaptability and resilience.
 - Proactivity to identify and solve problems.

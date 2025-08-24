@@ -6,7 +6,7 @@
   </a>
   <p align="center">
     <img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal_Engine-111111?style=for-the-badge&logo=UnrealEngine&labelColor=000000&color=982176">
-    <img alt="Unity" src="https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=Unity&labelColor=000000&color=FFE5AD">
-    <img alt="Custom Engines" src="https://img.shields.io/badge/Custom_Engines-111111?style=for-the-badge&labelColor=000000&color=F11A7B">
+    <img alt="Unity" src="https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=Unity&labelColor=000000&color=F11A7B">
+    <img alt="Custom Engines" src="https://img.shields.io/badge/Custom_Engines-111111?style=for-the-badge&labelColor=000000&color=FFE5AD">
   </p>
 </div>

@@ -1,1 +1,1 @@
-# <div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTVpM2lrdjB4cmIxdnc4cXJ5cWhwdHphNm5qcXVvbm4wYjU3MW1jdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tFSqMSMnzPRTAdvKyr/giphy.gif" width="40"> Hello! My name is Pablo Granado Valdivielso</div>
+# <div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTVpM2lrdjB4cmIxdnc4cXJ5cWhwdHphNm5qcXVvbm4wYjU3MW1jdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tFSqMSMnzPRTAdvKyr/giphy.gif" width="30"> Hello! My name is Pablo Granado Valdivielso</div>

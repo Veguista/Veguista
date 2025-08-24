@@ -11,7 +11,7 @@
     <img alt="Custom Engines" src="https://img.shields.io/badge/Custom_Engines-111111?style=for-the-badge&logo=C%2B%2B&labelColor=000000&color=FFE5AD">
   </p>
   <p align="center">
-    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=C%2B%2B&labelColor=000000&color=FCEFCB">
+    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=C%2B%2B&labelColor=000000&color=EFDCAB">
     <img alt="C#" src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=C&labelColor=000000&color=FFB22C">
     <img alt="Blueprints & Visual scripting" src="https://img.shields.io/badge/Blueprints_%26_Visual_Scripting-111111?style=for-the-badge&logo=UnrealEngine&labelColor=000000&color=A86523">
     <img alt="XML" src="https://img.shields.io/badge/XML-111111?style=for-the-badge&logo=XML&labelColor=000000&color=854836">

@@ -36,9 +36,33 @@ I'm looking for Technical Designer roles as well as Game Programmer and Designer
 - Adaptability and resilience.
 - Proactivity to identify and solve problems.
 
+<!-- COMMENTED DEMO REEL SECTION
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazAzcWhtdjF5bmZoOWxxMGNvMzQ4Y24ydDNwNmN3YTBvejFleWxhayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/l0HlPruAeiEvswow0/giphy.gif" width="35"> Demo Reel
+-->
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YmhvdHhsdmszZGIwcTdhaGIwZTVhamk3cWV6eGtyaTMyYnF5ZDh0bCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/vtHAUZXA5TJ5YPrERy/giphy.gif" width="35"> Projects
+<table style="width:100%">
+  <tr>
+    <td>
+	    <a href="https://github.com/Veguista/WFC_Tool_Showcase">
+        <img src="https://github.com/user-attachments/assets/7fbbbbc5-234e-4b7e-93dd-0b84b82271aa">
+	    </a>
+      <!--<strong><a href="https://github.com/Veguista/WFC_Tool_Showcase">Wave Function Collapse Tool</a></strong>-->
+    </td>
+    <td align="center">
+	    <a href="https://pgv200080.wixsite.com/pablogvportfolio">
+  		  <img src="https://github.com/user-attachments/assets/0ba8ee26-09ac-4525-a680-510244c810a0">
+	    </a>
+	    <!--<strong><a href="https://pgv200080.wixsite.com/pablogvportfolio">Technical Design Portfolio</a></strong>-->
+	  </td>
+    <td align="center">
+	    <a href="https://github.com/Veguista/Easing-Toolkit-Package/tree/main">
+  		  <img src="https://github.com/user-attachments/assets/53aa0e61-dd24-4ef4-ad96-b70753d6b854">
+	    </a>
+	    <!--<strong><a href="https://github.com/Veguista/Easing-Toolkit-Package/tree/main">Easing Toolkit</a></strong>-->
+	  </td>
+  </tr>
+</table>
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzk3aG02b2NzNHZseWp5dTEwMjBocXp4bWVrOTJzd3NpMWlmbnBncyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/k3BaWknGtoURRum0hJ/giphy.gif" width="32"> Contact
 <div align="center">

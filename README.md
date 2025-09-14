@@ -45,7 +45,7 @@ I'm looking for Technical Designer roles as well as Game Programmer and Designer
   <tr>
     <td>
 	    <a href="https://github.com/Veguista/WFC_Tool_Showcase">
-        <img src="https://github.com/user-attachments/assets/7fbbbbc5-234e-4b7e-93dd-0b84b82271aa">
+        	<img src="https://github.com/user-attachments/assets/7fbbbbc5-234e-4b7e-93dd-0b84b82271aa">
 	    </a>
       <!--<strong><a href="https://github.com/Veguista/WFC_Tool_Showcase">Wave Function Collapse Tool</a></strong>-->
     </td>
@@ -65,6 +65,8 @@ I'm looking for Technical Designer roles as well as Game Programmer and Designer
 </table>
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzk3aG02b2NzNHZseWp5dTEwMjBocXp4bWVrOTJzd3NpMWlmbnBncyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/k3BaWknGtoURRum0hJ/giphy.gif" width="32"> Contact
-<div align="center">
-  
+<div>
+	<a href="mailto:pgv200080@gmail.com">
+		<img alt="EMAIL ME" src="https://img.shields.io/badge/EMAIL-pgv200080@gmail.com-0066A1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101011">
+	</a>
 </div>

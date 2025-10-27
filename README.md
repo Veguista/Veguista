@@ -36,9 +36,11 @@ I'm looking for Technical Designer roles as well as Game Programmer and Designer
 - Adaptability and resilience.
 - Proactivity to identify and solve problems.
 
-<!-- COMMENTED DEMO REEL SECTION
+<!-- COMMENTED DEMO REEL SECTION-->
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazAzcWhtdjF5bmZoOWxxMGNvMzQ4Y24ydDNwNmN3YTBvejFleWxhayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/l0HlPruAeiEvswow0/giphy.gif" width="35"> Demo Reel
--->
+
+[![Demo Reel](https://github.com/user-attachments/assets/2e6721ab-603b-4e88-9861-3fbf9486d79f)](https://youtu.be/9-vg3mL-FnE)
+
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YmhvdHhsdmszZGIwcTdhaGIwZTVhamk3cWV6eGtyaTMyYnF5ZDh0bCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/vtHAUZXA5TJ5YPrERy/giphy.gif" width="35"> Projects
 <table style="width:100%">

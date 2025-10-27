@@ -31,12 +31,13 @@ Initially, I focused my education on the design part of game development. Howeve
 
 I'm looking for Technical Designer roles as well as Game Programmer and Designer positions. I'm open to positions within Spain and the UK and will consider remote work opportunities.
 
+
 ## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dno0Y2IwM3ZhMmlzaGczMWNnaHVvMTUxMnU5dDRhOGRhbWRtZXozdCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/dNMGZVSfkSFn7NDC3F/giphy.gif" width="30"> Soft Skills
 - Group management and conflict resolution from my Facilitation experience.
 - Adaptability and resilience.
 - Proactivity to identify and solve problems.
 
-<!-- COMMENTED DEMO REEL SECTION-->
+
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazAzcWhtdjF5bmZoOWxxMGNvMzQ4Y24ydDNwNmN3YTBvejFleWxhayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/l0HlPruAeiEvswow0/giphy.gif" width="35"> Demo Reel
 
 [![Demo Reel](https://github.com/user-attachments/assets/2e6721ab-603b-4e88-9861-3fbf9486d79f)](https://youtu.be/9-vg3mL-FnE)
@@ -65,6 +66,7 @@ I'm looking for Technical Designer roles as well as Game Programmer and Designer
 	  </td>
   </tr>
 </table>
+
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzk3aG02b2NzNHZseWp5dTEwMjBocXp4bWVrOTJzd3NpMWlmbnBncyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/k3BaWknGtoURRum0hJ/giphy.gif" width="32"> Contact
 <div>

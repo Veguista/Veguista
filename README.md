@@ -40,7 +40,7 @@ I'm looking for junior Technical Design and Gameplay Programming roles. I can re
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazAzcWhtdjF5bmZoOWxxMGNvMzQ4Y24ydDNwNmN3YTBvejFleWxhayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/l0HlPruAeiEvswow0/giphy.gif" width="35"> Demo Reel
 
-[![Demo Reel](https://github.com/user-attachments/assets/9968f00e-22c0-4d9d-8ee3-6142f079d2af)](https://youtu.be/9-vg3mL-FnE)
+[![Demo Reel](https://github.com/user-attachments/assets/9968f00e-22c0-4d9d-8ee3-6142f079d2af)](https://youtu.be/JBRla7327xE)
 
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YmhvdHhsdmszZGIwcTdhaGIwZTVhamk3cWV6eGtyaTMyYnF5ZDh0bCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/vtHAUZXA5TJ5YPrERy/giphy.gif" width="35"> Projects

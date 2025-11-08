@@ -56,14 +56,26 @@ I'm looking for junior Technical Design and Gameplay Programming roles. I can re
 	    <a href="https://veguista.github.io/">
   		  <img src="https://github.com/user-attachments/assets/940e4057-0761-47bd-ac80-af98e26fc452">
 	    </a>
-	    <!--<strong><a href="https://pgv200080.wixsite.com/pablogvportfolio">Technical Design Portfolio</a></strong>-->
-	  </td>
+	    <!--<strong><a href="https://veguista.github.io/">Portfolio</a></strong>-->
+	</td>
     <td align="center">
 	    <a href="https://github.com/Veguista/Easing-Toolkit-Package/tree/main">
   		  <img src="https://github.com/user-attachments/assets/53aa0e61-dd24-4ef4-ad96-b70753d6b854">
 	    </a>
 	    <!--<strong><a href="https://github.com/Veguista/Easing-Toolkit-Package/tree/main">Easing Toolkit</a></strong>-->
-	  </td>
+	</td>
+  </tr>
+  <tr>
+    <td>
+    </td>
+    <td align="center">
+	    <a href="https://github.com/Veguista/LadyUmbrella-CoverSystem">
+  		  <img src="https://github.com/user-attachments/assets/58be2cc2-74f1-4618-9c49-cc3923adde4a">
+	    </a>
+		<!--<strong><a href="https://github.com/Veguista/LadyUmbrella-CoverSystem">Lady Umbrella - Cover System</a></strong>-->
+	</td>
+    <td align="center">
+	</td>
   </tr>
 </table>
 

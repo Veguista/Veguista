@@ -40,7 +40,7 @@ I'm looking for junior Technical Design and Gameplay Programming roles. I can re
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazAzcWhtdjF5bmZoOWxxMGNvMzQ4Y24ydDNwNmN3YTBvejFleWxhayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/l0HlPruAeiEvswow0/giphy.gif" width="35"> Demo Reel
 
-[![Demo Reel](https://github.com/user-attachments/assets/2e6721ab-603b-4e88-9861-3fbf9486d79f)](https://youtu.be/9-vg3mL-FnE)
+[![Demo Reel](https://github.com/user-attachments/assets/9968f00e-22c0-4d9d-8ee3-6142f079d2af)](https://youtu.be/9-vg3mL-FnE)
 
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YmhvdHhsdmszZGIwcTdhaGIwZTVhamk3cWV6eGtyaTMyYnF5ZDh0bCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/vtHAUZXA5TJ5YPrERy/giphy.gif" width="35"> Projects
@@ -53,8 +53,8 @@ I'm looking for junior Technical Design and Gameplay Programming roles. I can re
       <!--<strong><a href="https://github.com/Veguista/WFC_Tool_Showcase">Wave Function Collapse Tool</a></strong>-->
     </td>
     <td align="center">
-	    <a href="https://pgv200080.wixsite.com/pablogvportfolio">
-  		  <img src="https://github.com/user-attachments/assets/0ba8ee26-09ac-4525-a680-510244c810a0">
+	    <a href="https://veguista.github.io/">
+  		  <img src="https://github.com/user-attachments/assets/940e4057-0761-47bd-ac80-af98e26fc452">
 	    </a>
 	    <!--<strong><a href="https://pgv200080.wixsite.com/pablogvportfolio">Technical Design Portfolio</a></strong>-->
 	  </td>

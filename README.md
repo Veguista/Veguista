@@ -46,7 +46,7 @@ I'm looking for junior Technical Design and Gameplay Programming roles. I can re
 ## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YmhvdHhsdmszZGIwcTdhaGIwZTVhamk3cWV6eGtyaTMyYnF5ZDh0bCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/vtHAUZXA5TJ5YPrERy/giphy.gif" width="35"> Projects
 <table style="width:100%">
   <tr>
-    <td>
+    <td align="center">
 	    <a href="https://github.com/Veguista/WFC_Tool_Showcase">
         	<img src="https://github.com/user-attachments/assets/7fbbbbc5-234e-4b7e-93dd-0b84b82271aa">
 	    </a>
@@ -66,8 +66,12 @@ I'm looking for junior Technical Design and Gameplay Programming roles. I can re
 	</td>
   </tr>
   <tr>
-    <td>
-    </td>
+    <td align="center">
+	    <a href="https://github.com/Veguista/ECS-GameEngine">
+  		  <img src="https://github.com/user-attachments/assets/e353d981-53d2-43bd-8997-031d3fcc3ce3">
+	    </a>
+	    <!--<strong><a href="https://github.com/Veguista/ECS-GameEngine">Mini ECS Game engine</a></strong>-->
+	</td>
     <td align="center">
 	    <a href="https://github.com/Veguista/LadyUmbrella-CoverSystem">
   		  <img src="https://github.com/user-attachments/assets/58be2cc2-74f1-4618-9c49-cc3923adde4a">
